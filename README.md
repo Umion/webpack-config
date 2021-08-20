@@ -1,2 +1,1 @@
-# KryptoX.com
 # webpack-config

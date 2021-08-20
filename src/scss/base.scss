@@ -1,0 +1,7 @@
+body {
+  background: green;
+
+  &.about-page {
+    background: red;
+  }
+}
