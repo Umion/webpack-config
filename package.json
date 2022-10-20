@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "yarn run webpack serve --open"
   },
-  "repository": "git@github.com:amoniacou/KryptoX.com.git",
+  "repository": "",
   "license": "MIT",
   "devDependencies": {
     "css-loader": "^6.2.0",
